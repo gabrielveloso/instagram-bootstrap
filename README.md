@@ -16,7 +16,9 @@ Instagram copy made with HTML, CSS and Bootstrap Framework
 ![Web 1](https://github.com/gabrielveloso/instagram-bootstrap/blob/main/screen.png)
 
 
-## Components bootstrap utilized
+## Techs
+
+1. Components bootstrap 
 - Tabs
 - Button
 - Navbar
@@ -24,15 +26,15 @@ Instagram copy made with HTML, CSS and Bootstrap Framework
 - Grid
 - Icons
 
-## Canvas with Javascript
+2.  Canvas with Javascript
 
 
 ```bash
 # clone repository
 git clone https://github.com/gabrielveloso/instagram-bootstrap
+```
 
-
-# Author
+## Author
 
 Gabriel Azuirson
 
