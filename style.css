@@ -68,3 +68,32 @@ body {
 .profile-desc {
     font-size: 16px !important;
 }
+
+.stories {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.nav-feed{
+   border-bottom: none !important;
+   display: flex;   
+   justify-content: center;
+   padding-bottom: 15px;
+}
+
+.nav-link-1{
+    color: #495057 !important;
+    background-color: #fafafa !important;
+    border-color: gray white white !important;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.nav-link-2{
+    color: #a2a8af !important;
+    background-color: #fafafa !important;
+    font-size: 12px;
+    font-weight: 600;
+}
+
